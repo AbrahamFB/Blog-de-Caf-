@@ -1,68 +1,68 @@
- LICENCIA PÚBLICA GENERAL GNU LESSER
- Versión 3, 29 de junio de 2007
+                   GNU LESSER GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Todo el mundo puede copiar y distribuir copias literales
- de este documento de licencia, pero no se permite cambiarlo.
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
 
- Esta versión de la GNU Lesser General Public License incorpora
-los términos y condiciones de la versión 3 del GNU General Public
-Licencia, complementada por los permisos adicionales que se enumeran a continuación.
+  This version of the GNU Lesser General Public License incorporates
+the terms and conditions of version 3 of the GNU General Public
+License, supplemented by the additional permissions listed below.
 
- 0. Definiciones adicionales.
+  0. Additional Definitions.
 
- Tal como se utiliza en el presente documento, "esta Licencia" se refiere a la versión 3 de la GNU Lesser
-Licencia Pública General, y la "GPL de GNU" se refiere a la versión 3 de la GNU
-Licencia Pública General.
+  As used herein, "this License" refers to version 3 of the GNU Lesser
+General Public License, and the "GNU GPL" refers to version 3 of the GNU
+General Public License.
 
- "La Biblioteca" se refiere a una obra cubierta regida por esta Licencia,
-que no sea una Aplicación o una Obra Combinada como se define a continuación.
+  "The Library" refers to a covered work governed by this License,
+other than an Application or a Combined Work as defined below.
 
- Una "Aplicación" es cualquier trabajo que hace uso de una interfaz
-por la Biblioteca, pero que no se basa de otro modo en la Biblioteca.
-Definir una subclase de una clase definida por la Biblioteca se considera un modo
-del uso de una interfaz proporcionada por la Biblioteca.
+  An "Application" is any work that makes use of an interface provided
+by the Library, but which is not otherwise based on the Library.
+Defining a subclass of a class defined by the Library is deemed a mode
+of using an interface provided by the Library.
 
- Un "Trabajo Combinado" es una obra producida por la combinación o vinculación de un
-Aplicación con la Biblioteca. La versión particular de la Biblioteca
-con la que se hizo la Obra Combinada también se llama el
-Versión".
+  A "Combined Work" is a work produced by combining or linking an
+Application with the Library.  The particular version of the Library
+with which the Combined Work was made is also called the "Linked
+Version".
 
- La "Fuente Correspondiente Mínima" para un Trabajo Combinado significa la
-Fuente correspondiente para la Obra Combinada, excluyendo cualquier código fuente
-para partes de la Obra Combinada que, consideradas aisladamente, son
-basado en la Aplicación, y no en la Versión Vinculada.
+  The "Minimal Corresponding Source" for a Combined Work means the
+Corresponding Source for the Combined Work, excluding any source code
+for portions of the Combined Work that, considered in isolation, are
+based on the Application, and not on the Linked Version.
 
- El "Código de Solicitud Correspondiente" para un Trabajo Combinado significa el
-código objeto y/o código fuente para la Aplicación, incluyendo cualquier dato
-programas de utilidad necesarios para reproducir el Trabajo Combinado de la
-Aplicación, pero excluyendo las bibliotecas del sistema del trabajo combinado.
+  The "Corresponding Application Code" for a Combined Work means the
+object code and/or source code for the Application, including any data
+and utility programs needed for reproducing the Combined Work from the
+Application, but excluding the System Libraries of the Combined Work.
 
- 1. Excepción a la Sección 3 de la GPL de GNU.
+  1. Exception to Section 3 of the GNU GPL.
 
- Usted puede transmitir un trabajo cubierto bajo las secciones 3 y 4 de esta Licencia
-sin estar vinculado por la sección 3 de la GPL de GNU.
+  You may convey a covered work under sections 3 and 4 of this License
+without being bound by section 3 of the GNU GPL.
 
- 2. Transporte de versiones modificadas.
+  2. Conveying Modified Versions.
 
- Si modifica una copia de la Biblioteca y, en sus modificaciones,
-instalación se refiere a una función o datos que debe proporcionar una Aplicación
-que utiliza la instalación (que no sea como argumento pasado cuando el
-se invoca la instalación), entonces usted puede transmitir una copia de la
-Versión:
+  If you modify a copy of the Library, and, in your modifications, a
+facility refers to a function or data to be supplied by an Application
+that uses the facility (other than as an argument passed when the
+facility is invoked), then you may convey a copy of the modified
+version:
 
- a) bajo esta Licencia, siempre que usted haga un esfuerzo de buena fe para
- asegurarse de que, en caso de que una Aplicación no suministre la
- función o datos, la instalación sigue funcionando y realiza
- cualquier parte de su propósito sigue siendo significativa, o
+   a) under this License, provided that you make a good faith effort to
+   ensure that, in the event an Application does not supply the
+   function or data, the facility still operates, and performs
+   whatever part of its purpose remains meaningful, or
 
- b) bajo la GPL de GNU, sin ninguno de los permisos adicionales de
- esta Licencia aplicable a esa copia.
+   b) under the GNU GPL, with none of the additional permissions of
+   this License applicable to that copy.
 
- 3. Código de objeto que incorpora material de los archivos de encabezado de la biblioteca.
+  3. Object Code Incorporating Material from Library Header Files.
 
- La forma de código objeto de una Aplicación puede incorporar material de
+  The object code form of an Application may incorporate material from
 a header file that is part of the Library.  You may convey such object
 code under terms of your choice, provided that, if the incorporated
 material is not limited to numerical parameters, data structure
@@ -82,84 +82,84 @@ layouts and accessors, or small macros, inline functions and templates
 taken together, effectively do not restrict modification of the
 portions of the Library contained in the Combined Work and reverse
 engineering for debugging such modifications, if you also do each of
-lo siguiente:
+the following:
 
- a) Dar aviso destacado con cada copia de la Obra Combinada que
- la Biblioteca se utiliza en ella y que la Biblioteca y su uso son
- cubierto por esta Licencia.
+   a) Give prominent notice with each copy of the Combined Work that
+   the Library is used in it and that the Library and its use are
+   covered by this License.
 
- b) Acompañar la Obra Combinada con una copia de la GPL de GNU y esta licencia
- Documento.
+   b) Accompany the Combined Work with a copy of the GNU GPL and this license
+   document.
 
- c) Para una Obra Combinada que muestre avisos de derechos de autor durante
- ejecución, incluir el aviso de derechos de autor de la Biblioteca entre
- estos avisos, así como una referencia que dirige al usuario a la
- copias de la GPL de GNU y este documento de licencia.
+   c) For a Combined Work that displays copyright notices during
+   execution, include the copyright notice for the Library among
+   these notices, as well as a reference directing the user to the
+   copies of the GNU GPL and this license document.
 
- d) Realice una de las siguientes acciones:
+   d) Do one of the following:
 
- 0) Transmitir la Fuente Correspondiente Mínima bajo los términos de este
- Licencia, y el Código de Solicitud Correspondiente en un formulario
- adecuado para, y bajo los términos que permiten, el usuario a
- recombine o vuelva a vincular la Aplicación con una versión modificada de
- la Versión Enlazada para producir una Obra Combinada modificada, en el
- manera especificada por la sección 6 de la GPL de GNU para transmitir
- Fuente correspondiente.
+       0) Convey the Minimal Corresponding Source under the terms of this
+       License, and the Corresponding Application Code in a form
+       suitable for, and under terms that permit, the user to
+       recombine or relink the Application with a modified version of
+       the Linked Version to produce a modified Combined Work, in the
+       manner specified by section 6 of the GNU GPL for conveying
+       Corresponding Source.
 
- 1) Utilice un mecanismo de biblioteca compartida adecuado para vincular con la
- Biblioteca. Un mecanismo adecuado es aquel que (a) utiliza en tiempo de ejecución
- una copia de la Biblioteca ya presente en el ordenador del usuario
- sistema, y (b) funcionará correctamente con una versión modificada
- de la Biblioteca que es compatible con la interfaz
- Versión.
+       1) Use a suitable shared library mechanism for linking with the
+       Library.  A suitable mechanism is one that (a) uses at run time
+       a copy of the Library already present on the user's computer
+       system, and (b) will operate properly with a modified version
+       of the Library that is interface-compatible with the Linked
+       Version.
 
- e) Proporcionar información de instalación, pero solo si lo haría de otra manera
- información en virtud de la sección 6 de la
- GNU GPL, y sólo en la medida en que dicha información
- necesario para instalar y ejecutar una versión modificada de la
- Trabajo combinado producido por la recombinación o reenlace de la
- Aplicación con una versión modificada de la versión vinculada. (Si
- utiliza la opción 4d0, la Información de instalación debe acompañar
- la Fuente Correspondiente Mínima y la Aplicación Correspondiente
- Código. Si utiliza la opción 4d1, debe proporcionar la
- Información de la manera especificada por la sección 6 de la GPL de GNU
- para transmitir la Fuente Correspondiente.)
+   e) Provide Installation Information, but only if you would otherwise
+   be required to provide such information under section 6 of the
+   GNU GPL, and only to the extent that such information is
+   necessary to install and execute a modified version of the
+   Combined Work produced by recombining or relinking the
+   Application with a modified version of the Linked Version. (If
+   you use option 4d0, the Installation Information must accompany
+   the Minimal Corresponding Source and Corresponding Application
+   Code. If you use option 4d1, you must provide the Installation
+   Information in the manner specified by section 6 of the GNU GPL
+   for conveying Corresponding Source.)
 
- 5. Bibliotecas combinadas.
+  5. Combined Libraries.
 
- Puede colocar instalaciones de biblioteca que sean una obra basada en la
-Biblioteca lado a lado en una sola biblioteca junto con otra biblioteca
-instalaciones que no son Aplicaciones y no están cubiertas por este
-Licenciar, y transmitir una biblioteca combinada de este tipo bajo los términos de su
-opción, si hace las dos acciones siguientes:
+  You may place library facilities that are a work based on the
+Library side by side in a single library together with other library
+facilities that are not Applications and are not covered by this
+License, and convey such a combined library under terms of your
+choice, if you do both of the following:
 
- a) Acompañar a la biblioteca combinada con una copia del mismo trabajo basado en
- en la Biblioteca, sin combinación con otras instalaciones de la biblioteca,
- en virtud de los términos de esta Licencia.
+   a) Accompany the combined library with a copy of the same work based
+   on the Library, uncombined with any other library facilities,
+   conveyed under the terms of this License.
 
- b) Dar aviso destacado con la biblioteca combinada que parte de la misma
- es una obra basada en la Biblioteca, y explicando dónde encontrar la
- forma nocombinada de la misma obra.
+   b) Give prominent notice with the combined library that part of it
+   is a work based on the Library, and explaining where to find the
+   accompanying uncombined form of the same work.
 
- 6. Versiones revisadas de la Licencia Pública General Menor GNU.
+  6. Revised Versions of the GNU Lesser General Public License.
 
- La Free Software Foundation puede publicar versiones revisadas y/o nuevas
-de la Licencia Pública General Menor GNU de vez en cuando. Este nuevo
-versiones serán similares en espíritu a la versión actual, pero puede
-difieren en detalle para abordar nuevos problemas o preocupaciones.
+  The Free Software Foundation may publish revised and/or new versions
+of the GNU Lesser General Public License from time to time. Such new
+versions will be similar in spirit to the present version, but may
+differ in detail to address new problems or concerns.
 
- A cada versión se le da un número de versión distintivo. Si el
-La biblioteca tal como la recibió especifica que una determinada versión numerada
-de la Licencia Pública General Menor gnu "o cualquier versión posterior"
-se aplica a ella, usted tiene la opción de seguir los términos y
-condiciones de esa versión publicada o de cualquier versión posterior
-publicado por la Free Software Foundation. Si la Biblioteca como usted
-recibido no especifica un número de versión de la GNU Lesser
-Licencia Pública General, puede elegir cualquier versión de GNU Lesser
-Licencia Pública General publicada por la Free Software Foundation.
+  Each version is given a distinguishing version number. If the
+Library as you received it specifies that a certain numbered version
+of the GNU Lesser General Public License "or any later version"
+applies to it, you have the option of following the terms and
+conditions either of that published version or of any later version
+published by the Free Software Foundation. If the Library as you
+received it does not specify a version number of the GNU Lesser
+General Public License, you may choose any version of the GNU Lesser
+General Public License ever published by the Free Software Foundation.
 
- Si la Biblioteca tal como la recibió especifica que un proxy puede decidir
-si las futuras versiones de la Licencia Pública General Menor de GNU
-aplicar, la declaración pública de aceptación de cualquier versión de cualquier apoderado es
-autorización permanente para que usted elija esa versión para el
-Biblioteca.
+  If the Library as you received it specifies that a proxy can decide
+whether future versions of the GNU Lesser General Public License shall
+apply, that proxy's public statement of acceptance of any version is
+permanent authorization for you to choose that version for the
+Library.
